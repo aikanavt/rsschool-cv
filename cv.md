@@ -34,3 +34,18 @@ function numbersWithDigitInside(x, d) {
 ## Job experience
 
 - _Petrel AI_ : Front-end intern
+
+## Education
+
+- Nazarbayev University, 2019 - present
+- Courses:
+  - WAYUP: Web design, Website layout
+  - React Tutorial and Projects Course (2022)
+  - Currently taking: Understanding TypeScript ‐ 2022 Edition
+
+## Languages
+
+- English: Advanced
+  - 3 years of experience as an English tutor
+- Russian
+- Kazakh
